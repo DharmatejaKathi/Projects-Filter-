@@ -1,0 +1,38 @@
+.logo {
+  width: 180px;
+}
+.header-container {
+  background-color: #cbd5e1;
+  width: 100%;
+  padding: 9px;
+  padding-left: 36px;
+}
+.select {
+  width: 300px;
+  height: 35px;
+  border-radius: 9px;
+  cursor: pointer;
+  font-family: 'Roboto';
+  font-size: 16px;
+  padding-left: 12px;
+}
+.ul {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.container {
+  background-color: #f1f5f9;
+}
+.failure {
+  display: flex;
+  flex-direction: column;
+  font-family: 'roboto';
+}
+.products-loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 85vh;
+}
